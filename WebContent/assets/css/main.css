@@ -1584,7 +1584,7 @@
 /* Type */
 
 	body {
-		background-color: white;
+		background-color: #fff;
 		color: #111111;
 	}
 
@@ -3743,39 +3743,39 @@
 /* Footer */
 
 	#footer {
-		background-color: white;
-		color: black;
+		background-color: #e5474b;
+		color: #f2a3a5;
 		padding: 4em 0 2em 0;
 		background: #e5474b;
 	}
 
 		#footer input, #footer select, #footer textarea {
-			color: black;
+			color: #ffffff;
 		}
 
 		#footer a {
-			color: black;
+			color: #ffffff;
 		}
 
 		#footer strong, #footer b {
-			color: #black;
+			color: #ffffff;
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: black;
+			color: #fff;
 		}
 
 		#footer blockquote {
-			border-left-color: black	;
+			border-left-color: #fff;
 		}
 
 		#footer code {
 			background: none;
-			border-color: black	;
+			border-color: #fff;
 		}
 
 		#footer hr {
-			border-bottom-color: black	;
+			border-bottom-color: #fff;
 		}
 
 		#footer input[type="submit"],
@@ -3847,7 +3847,7 @@
 			}
 
 		#footer label {
-			color: black;
+			color: #ffffff;
 		}
 
 		#footer input[type="text"],
